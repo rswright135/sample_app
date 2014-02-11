@@ -4,7 +4,7 @@ ruby '1.9.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
-gem 'bootstrap-sass','2.3.1.0'
+gem 'bootstrap-sass','3.0.2.1'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do
@@ -23,7 +23,7 @@ end
 
 # Gems associated with Guard (Windows)
 gem 'rb-notifu', '0.0.4'
-gem 'win32console'
+gem 'win32console', '1.3.2'
 gem 'wdm', '0.1.0'
 
 # Use SCSS for stylesheets
