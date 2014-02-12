@@ -22,9 +22,9 @@ group :test do
 end
 
 # Gems associated with Guard (Windows)
-gem 'rb-notifu', '0.0.4'
-gem 'win32console', '1.3.2'
-gem 'wdm', '0.1.0'
+#gem 'rb-notifu', '0.0.4'
+#gem 'win32console', '1.3.2'
+#gem 'wdm', '0.1.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
